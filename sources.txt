@@ -1,0 +1,4 @@
+The car door firmware comes from https://github.com/mitre-cyber-academy/2023-ectf-insecure-example and is not part of my project.
+(We have permission to attack this firmware.)
+Rather, the entire car door (firmware, TivaWare board, related programs) are taken as pre-existant, and my Pi Pico Fob Device interacts with it.
+My project is the Pi Pico portion and the attack, not creating the car door.
